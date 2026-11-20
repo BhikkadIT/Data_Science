@@ -1,0 +1,7 @@
+OrderID	OrderDate	Region	Product	Amount
+101	2026-01-05	West	Laptop	55000
+102	2026-01-07	North	Mobile	?
+103	2026-01-09	South	Tablet	18000
+104	2026-01-12	West	Mobile	21000
+105	2026-01-15	East	Laptop	?
+106	2026-01-18	North	Laptop	61000
